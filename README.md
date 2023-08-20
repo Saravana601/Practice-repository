@@ -9,6 +9,7 @@ Welcome to my practice repository! 🚀 This repository serves as a platform for
 - [About](#about)
 - [Contents](#contents)
 - [Purpose](#purpose)
+- [LeetCode Practice](#leetcode-practice)
 - [Usage](#usage)
 - [Resources](#resources)
 - [Connect](#connect)
@@ -21,15 +22,17 @@ This repository is a dynamic workspace where I explore various programming conce
 
 Here's what you'll find in this repository:
 
-- Code examples from tutorials and courses
-- Mini-projects that demonstrate different skills
+- My Coding journey!
 - Documentation outlining my learning process
-- Notes on new programming languages and tools
 - And much more!
 
 ## Purpose
 
 I believe in the power of consistent practice. By curating this repository, I'm committed to enhancing my skills, tracking my progress, and sharing insights with fellow learners.
+
+## LeetCode Practice
+
+As part of my coding journey, I regularly practice on LeetCode to sharpen my problem-solving skills. I solve coding challenges to strengthen my algorithms and data structures knowledge.
 
 ## Usage
 
